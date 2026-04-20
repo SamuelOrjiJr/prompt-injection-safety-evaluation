@@ -1,3 +1,10 @@
+## About This Project
+
+This evaluation was completed independently by **Samuel Orji Jr**, a technical support professional and AI security researcher based in Austin, TX. Samuel holds a CompTIA Security+ certification and is actively developing expertise in AI safety, adversarial machine learning, and cloud security. This project was completed in preparation for applying to the Anthropic AI Security Fellows Program.
+
+---
+
+
 # Evaluating Prompt Injection and Safety Bypass Vulnerabilities in Large Language Models
 ## Overview
 
